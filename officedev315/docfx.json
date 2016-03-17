@@ -17,11 +17,13 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "_themes/**"
         ],
         "exclude": [
           "**/obj/**",
-          "officedev315/**"
+          "officedev315/**",
+          "_themes//DocPacker/**"
         ],
         "src": null,
         "dest": null
