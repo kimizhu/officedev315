@@ -13,7 +13,7 @@ Apps can use the Microsoft Graph API to perform create, read, update, and delete
 
 You can use the API in four steps:
 1.	Select your programming language and development environment.
-2.	Build your app.
+2.	Build your app
 3.	Optionally, host your app in Microsoft Azure or any cloud platform you choose.
 4.	Authenticate your users by using single sign-on with Azure AD.
 
